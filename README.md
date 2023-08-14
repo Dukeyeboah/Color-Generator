@@ -1,6 +1,5 @@
 Color Scheme Generator
 
-Quick start:
 # Simple 15-digit Password Generator
 
 Generate a 15-digit password for users
